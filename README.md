@@ -15,8 +15,6 @@ Maintainer: COD TA's of '27 graduating batch.
 
 Click on a module name to see its folder and specification:
 
-- [2to1_Multiplexer](2to1_Multiplexer/)
-- [3to1_Multiplexer](3to1_Multiplexer/)
 - [Adder](Adder/)
 - [ALU](ALU/)
 - [ALU_Decoder](ALU_Decoder/)
